@@ -158,6 +158,10 @@ dl dt {
         background-image: url(img/norwegian_rose_@2X-fs8.png);
         background-size: 48px 48px;
       }
+      #plaque-outer {
+        background-image: url(img/blizzard_tear_top@2X-fs8.png);
+        background-size: 25px 25px;
+      }
       #plaque {
         background-image: url(img/blizzard_tear_@2X-fs8.png);
         background-size: 25px 25px;
