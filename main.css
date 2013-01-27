@@ -103,9 +103,7 @@ dl dt {
 
 @media all and (max-width: 650px) {
   h1 {
-    text-align: left;
     font-size: 3em;
-    margin-left: 30px;
   }
 
   .crop-250-top {
